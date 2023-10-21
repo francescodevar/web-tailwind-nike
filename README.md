@@ -1,7 +1,7 @@
 # React + Vite
 live demo
-nike-francesco.netlify.app
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[www.nike-francesco.netlify.app
+](https://nike-francesco.netlify.app/)This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
